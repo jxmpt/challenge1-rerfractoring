@@ -203,6 +203,7 @@ p {
   text-align: center;
   font-size: 25px;
   font-weight: bold;
+  display: block;
 }
 .copyright {
   font-size: 18px;
